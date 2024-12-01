@@ -50,11 +50,11 @@ The **Student Attendance Management System** is a **PHP-based web application** 
 ## Installation Guide
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Student-Attendance-Management-System.git
+   git clone https://github.com/DinithaNipunaka/Student-Attendance-Management-System.git
    ```
 2. Import the `attendance.sql` file into your MySQL database.
 3. Update the database credentials in the `dbcon.php` file.
-4. Set up the project on a local server (e.g., XAMPP or WAMP).
+4. Set up the project on a local server (e.g., XAMPP).
 5. Log in using the credentials provided above.
 
 ---
